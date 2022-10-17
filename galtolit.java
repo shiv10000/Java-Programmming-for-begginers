@@ -1,6 +1,6 @@
 //In this program we will see 
 //How you can convert gallons to liter
-class galtolit{
+public class galtolit{
     public static void main(String[] args){
         double gallons;
         double liter;
@@ -15,7 +15,7 @@ class galtolit{
             }
 
         }     
-  
+   
 
     }
 
