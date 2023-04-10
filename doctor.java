@@ -15,7 +15,7 @@ class Surgeon extends doctor{
   }
   void treatPatient(){
     super.treatPatient();
-    System.out.println("Surgeon also treats well my friend");
+    System.out.println("Surgeon  treats well my friend");
 
   }
   public static void main(String[] args) {
