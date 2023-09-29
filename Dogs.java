@@ -1,5 +1,5 @@
 class Dog{
-    public Dog(int duckSize){
+    public Dog(int dickSize){
         size=duckSize;
         System.out.println("the size is "+size);
 
