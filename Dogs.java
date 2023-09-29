@@ -1,7 +1,7 @@
 class Dog{
     public Dog(int dickSize){
         size=duckSize;
-        System.out.println("the size is "+size);
+        System.out.println("the size is long "+size);
 
  }
  public Dog(){
